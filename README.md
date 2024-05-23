@@ -19,7 +19,7 @@ Example matrices:
  0.0 1.2 -0.7 16.0
  6.31 9.85 1.15 0.86
 
-
+----------------------------------------------------------------------------------
 Assignment A
 Objective:
 Design a program that calculates the determinant of a square matrix.
